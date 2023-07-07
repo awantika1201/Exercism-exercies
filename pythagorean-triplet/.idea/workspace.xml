@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e06e9d-1263-4815-8649-ff9d06852e8f" name="Changes" comment="" />
+    <list default="true" id="89e06e9d-1263-4815-8649-ff9d06852e8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Processing/src/main/java/TryProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Processing/src/test/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leap/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PythagoreanTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PythagoreanTriplet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +22,11 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2Rq6FIBig53UrDCcfnz7ElHpvYs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,5 +45,16 @@
       <updated>1687965164743</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
